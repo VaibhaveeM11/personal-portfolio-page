@@ -1,1 +1,46 @@
-/* Add your CSS code here */
+/* Add your CSS code here */    
+*{
+	font-family:Lucida, sans-serif;
+;
+;
+;
+    max-width: 700px;
+    margin: auto;
+
+}
+ body
+ {
+           background-color:#778899;
+ 	      min-width: 500px;
+
+ }
+ .profileBody
+ {
+
+  display:inline-block;
+  background-color:white;
+   margin-top: 6px;
+   margin-left: 55px;
+      width: 75%;
+       height: 590px;
+       border: 2px solid gray;
+       padding:30px;
+
+   }
+   h1{
+   	  color:#696969;
+   	  text-shadow:2px 2px black;
+   }
+   h2,strong{
+   	color:#2F4F4F;
+   	  text-shadow: 1px 2px  gray;
+    
+}
+   img,#i{
+      
+   	 margin-top:0px;
+   	 padding-top:10px;
+   	 padding-bottom:2px;
+   	 right:200px;
+   	
+   }
